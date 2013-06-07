@@ -1,5 +1,11 @@
 {
   "name": "persona-buttons",
+  "version": "0.0.1",
+  "description": "Mozilla Persona CSS buttons",
+  "keywords": [
+    "persona",
+    "buttons"
+  ],
   "styles": [
     "persona-buttons.css"
   ]
