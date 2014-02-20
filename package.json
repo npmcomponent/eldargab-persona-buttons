@@ -1,0 +1,13 @@
+{
+  "name": "eldargab-persona-buttons",
+  "description": "Mozilla Persona CSS buttons",
+  "version": "0.0.1",
+  "keywords": [
+    "persona",
+    "buttons"
+  ],
+  "styles": [
+    "persona-buttons.css"
+  ],
+  "dependencies": {}
+}
